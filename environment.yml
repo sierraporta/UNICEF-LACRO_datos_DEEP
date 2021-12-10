@@ -6,6 +6,14 @@ dependencies:
 - ipython
 - jupyter
 - matplotlib
+- numpy
+- pandas
+- seaborn
+- colorama
+- termcolor
+- langdetect
+- holoviews
+- bokeh
 - scipy
 - sympy
 - pip:
