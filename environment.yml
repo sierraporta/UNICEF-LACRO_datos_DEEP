@@ -1,0 +1,12 @@
+name: datos_DEEP
+dependencies:
+- pip
+- python
+- pip
+- ipython
+- jupyter
+- matplotlib
+- scipy
+- sympy
+- pip:
+  - filterpy
