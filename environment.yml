@@ -15,6 +15,7 @@ dependencies:
 - holoviews
 - bokeh
 - scipy
+- openpyxl
 - sympy
 - pip:
   - filterpy
